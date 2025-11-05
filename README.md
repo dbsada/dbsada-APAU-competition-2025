@@ -18,6 +18,14 @@ Cada notebook incluye el proceso completo: limpieza, exploración, entrenamiento
 | `svm.ipynb` | Clasificador basado en Support Vector Machines. |
 | `stacking.ipynb` | Enfoque de stacking combinando varios modelos base. |
 
+---
+
+## 👥 Equipo — Pako&CO
+
+- [Diego Besada](https://github.com/dbsada)  
+- [Natalia Corchón](https://github.com/nataliacorchon)  
+- [Alfonso Jimena](https://github.com/AlfonsoJimena)
+- [Antonio Álvarez](https://github.com/Antonio2070)  
 
 ---
 
