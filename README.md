@@ -48,4 +48,4 @@ Cada notebook incluye el proceso completo: limpieza, exploración, entrenamiento
 - Matplotlib 
 - Dtale
 
-Además se probarón otras librerías y técnicas no presentadas en este repositorio.
+Además se probaron otras librerías y técnicas no presentadas en este repositorio.
