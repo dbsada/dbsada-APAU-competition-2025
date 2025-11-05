@@ -5,7 +5,7 @@
 Este repositorio contiene los notebooks desarrollados durante la competición de aprendizaje automático de la asignatura APAU (Aprendizaje Automático) del 3º curso del grado.  
 
 ---
-Salgo
+
 ## 📂 Contenido del repositorio
 
 Cada notebook incluye el proceso completo: limpieza, exploración, entrenamiento y predicción.
