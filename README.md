@@ -32,7 +32,7 @@ Cada notebook incluye el proceso completo: limpieza, exploración, entrenamiento
 ## 📊 Resultado de la competición
 ![Podio](images/podium.png)
 
->🔗 [Enlace a la competición en Kaggle](https://www.kaggle.com/competitions/apau-loan-approval-prediction-in-pennsylvania)
+
 
 
 ---
